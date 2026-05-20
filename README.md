@@ -22,4 +22,4 @@ This project contains a completed Excel assessment focused on multi-workbook ope
 - Consolidated Sales Summary workbook
 
 ## Screenshot
-![Assessment Screenshot](C2-W1-Assessment photo.png)
+![Assessment Screenshot](C2-W1-Assessmentphoto.png)
