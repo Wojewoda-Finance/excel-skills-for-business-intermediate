@@ -1,7 +1,7 @@
 # excel-skills-for-business-intermediate
 Weekly assessments and practice projects completed during the Excel Skills for Business: Intermediate course.
 
-## 2026-05-20 C2-W1-Assessment
+## 2026-05-20  C2-W1-Assessment
 
 This project contains a completed Excel assessment focused on multi-workbook operations and sales reporting.
 
@@ -24,7 +24,7 @@ This project contains a completed Excel assessment focused on multi-workbook ope
 ### Screenshot
 ![Assessment Screenshot](C2-W1-Assessment-photo.png)
 
-## 2026-05-22 C2-W2-Assessment-Workbook
+## 2026-05-22  C2-W2-Assessment-Workbook
 
 Excel assessment focused on text functions, date calculations, and dynamic data extraction.
 
