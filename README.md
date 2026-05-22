@@ -1,4 +1,4 @@
-## excel-skills-for-business-intermediate
+# excel-skills-for-business-intermediate
 Weekly assessments and practice projects completed during the Excel Skills for Business: Intermediate course.
 
 ## 2026-05-20 C2-W1-Assessment
