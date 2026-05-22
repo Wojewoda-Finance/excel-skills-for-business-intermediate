@@ -23,3 +23,30 @@ This project contains a completed Excel assessment focused on multi-workbook ope
 
 ### Screenshot
 ![Assessment Screenshot](C2-W1-Assessment-photo.png)
+
+## 2026-05-22 C2-W2-Assessment-Workbook
+
+Excel assessment focused on text functions, date calculations, and dynamic data extraction.
+
+### Skills Used
+
+- LEFT / RIGHT / MID
+- FIND
+- CONCAT
+- TODAY
+- YEARFRAC
+- Dynamic text extraction
+- Inventory label generation
+
+### Tasks Completed
+
+- Generated SKU labels
+- Extracted postcodes and state codes
+- Created distributor codes
+- Calculated date differences
+- Built dynamic inventory labels
+
+### Before
+![Before](C2-W2-Assessment-Workbook-photo-before.png)
+### After
+![After](C2-W2-Assessment-Workbook-photo-after.png)
