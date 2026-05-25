@@ -51,7 +51,7 @@ Excel assessment focused on text functions, date calculations, and dynamic data 
 ### After
 ![After](C2-W2-Assessment-Workbook-photo-after.png)
 
-## 2026-05-25 C2-W3-Assessment-Workbook
+## 2026-05-25  C2-W3-Assessment-Workbook
 Excel assessment focused on repairing broken named ranges and fixing travel expense calculations.
 
 ## Skills Practiced
