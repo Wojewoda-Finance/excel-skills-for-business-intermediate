@@ -69,3 +69,37 @@ Excel assessment focused on repairing broken named ranges and fixing travel expe
 ![Before](C2-W3-Assessment-Workbook-before.png)
 ### After
 ![After](C2-W3-Assessment-Workbook-after.png)
+
+## 2026-05-28  C2-W4-Practice-Challenge
+
+Excel practice project focused on data analysis, dashboard creation, aggregation formulas, and data visualization.
+
+### Skills Practiced
+- SUMIF / SUMIFS
+- COUNTIF / COUNTIFS
+- Named Ranges
+- Sparklines
+- Combo Charts
+- Trendlines and R² analysis
+- Secondary Axis charts
+- Dashboard-style reporting
+- Conditional aggregation
+- Data visualization in Excel
+
+### Tasks Completed
+- Calculated student payments and units by semester
+- Built summary tables using conditional formulas
+- Created sparklines to visualize semester trends
+- Built a combo chart combining units and payments
+- Added trendlines and analyzed R² values for best fit
+- Used named ranges to simplify formulas and calculations
+
+### Preview
+Dashboard containing:
+- semester unit analysis,
+- payment summaries,
+- sparklines,
+- combo charts,
+- trendline forecasting.
+
+![Dashboard Preview](C2-W4-Practice-Challenges-photo.png)
