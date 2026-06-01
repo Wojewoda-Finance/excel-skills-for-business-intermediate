@@ -137,7 +137,7 @@ The project involved building reports, analyzing student performance data, creat
 - Built Pivot Charts to visualize grade distributions and performance trends
 - Applied trendline analysis and forecasting to predict future student results
 - Used filtering, sorting, and summary statistics to support reporting and decision-making
-- 
+  
 ### Final Assessment Preview
 
 ![Final Assessment View](C2-Final-Assessment.png)
