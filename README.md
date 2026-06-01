@@ -75,6 +75,7 @@ Excel assessment focused on repairing broken named ranges and fixing travel expe
 Excel practice project focused on data analysis, dashboard creation, aggregation formulas, and data visualization.
 
 ### Skills Practiced
+
 - SUMIF / SUMIFS
 - COUNTIF / COUNTIFS
 - Named Ranges
@@ -87,6 +88,7 @@ Excel practice project focused on data analysis, dashboard creation, aggregation
 - Data visualization in Excel
 
 ### Tasks Completed
+
 - Calculated student payments and units by semester
 - Built summary tables using conditional formulas
 - Created sparklines to visualize semester trends
@@ -95,6 +97,7 @@ Excel practice project focused on data analysis, dashboard creation, aggregation
 - Used named ranges to simplify formulas and calculations
 
 ### Preview
+
 Dashboard containing:
 - semester unit analysis,
 - payment summaries,
@@ -103,3 +106,42 @@ Dashboard containing:
 - trendline forecasting.
 
 ![Dashboard Preview](C2-W4-Practice-Challenges-photo.png)
+
+## 2026-06-01  C2-Final-Assessment
+
+Final assessment completed as part of the Excel Skills for Business course.
+The project involved building reports, analyzing student performance data, creating Pivot Tables.
+
+### Topics covered:
+
+- 3D formulas
+- Named ranges
+- COUNTIF / COUNTIFS
+- Tables and Total Row
+- Filtering and Sorting
+- Data Consolidation
+- Pivot Tables
+- Pivot Charts
+- Trendlines and Forecasting
+- Sparklines
+
+- ## Tasks Completed
+
+- Calculated student performance metrics using 3D formulas across multiple worksheets
+- Built a final reporting sheet combining results from four academic terms
+- Created dynamic grade calculations using named ranges and lookup logic
+- Generated student email addresses and enrollment years using text functions
+- Consolidated attendance data from multiple worksheets into a single report
+- Analyzed absence patterns and identified students with high absence rates
+- Created Pivot Tables to compare academic performance across student groups
+- Built Pivot Charts to visualize grade distributions and performance trends
+- Applied trendline analysis and forecasting to predict future student results
+- Used filtering, sorting, and summary statistics to support reporting and decision-making
+- 
+### Final Assessment Preview
+
+![Final Assessment View](C2-Final-Assessment.png)
+
+### Next Steps
+
+Continue strengthening Excel skills before moving on to SQL, Power BI, and Python as part of my data analytics learning path.
