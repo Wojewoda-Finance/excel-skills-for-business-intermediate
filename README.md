@@ -142,6 +142,14 @@ The project involved building reports, analyzing student performance data, creat
 
 ![Final Assessment View](C2-Final-Assessment.png)
 
+### Certificate
+
+![View Certificate](Certificate.png)
+
+[View Certificate PDF](Certificate.pdf)
+
+[Verify Certificate](https://coursera.org/verify/4LPWMVLBN6HD)
+
 ### Next Steps
 
 Continue strengthening Excel skills before moving on to SQL, Power BI, and Python as part of my data analytics learning path.
